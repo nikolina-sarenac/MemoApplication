@@ -1,0 +1,140 @@
+2020-12-01 15:15:12.309 +01:00 [INF] Users list retrieved
+2020-12-01 15:16:23.443 +01:00 [INF] Users list retrieved
+2020-12-01 15:19:25.448 +01:00 [INF] Users list retrieved
+2020-12-01 15:19:35.487 +01:00 [INF] Users list retrieved
+2020-12-01 15:21:28.946 +01:00 [INF] Users list retrieved
+2020-12-01 15:21:35.722 +01:00 [INF] Users list retrieved
+2020-12-01 15:23:23.937 +01:00 [INF] Users list retrieved
+2020-12-01 15:25:50.856 +01:00 [INF] Users list retrieved
+2020-12-01 15:30:34.764 +01:00 [INF] Roles list retrieved
+2020-12-01 15:30:36.441 +01:00 [INF] Users list retrieved
+2020-12-01 15:59:07.856 +01:00 [INF] Users list retrieved
+2020-12-01 18:47:04.025 +01:00 [INF] Users list retrieved
+2020-12-01 19:04:49.594 +01:00 [INF] Users list retrieved
+2020-12-01 19:06:41.257 +01:00 [INF] Users list retrieved
+2020-12-01 19:10:35.865 +01:00 [INF] Users list retrieved
+2020-12-01 19:13:16.809 +01:00 [INF] Users list retrieved
+2020-12-01 19:16:08.259 +01:00 [INF] Users list retrieved
+2020-12-01 19:16:14.705 +01:00 [INF] Users list retrieved
+2020-12-01 19:18:11.994 +01:00 [INF] Roles list retrieved
+2020-12-01 19:18:14.001 +01:00 [INF] Users list retrieved
+2020-12-01 19:18:20.182 +01:00 [INF] Users list retrieved
+2020-12-01 19:18:24.847 +01:00 [INF] Users list retrieved
+2020-12-01 19:32:14.406 +01:00 [INF] Users list retrieved
+2020-12-01 19:32:28.976 +01:00 [INF] Users list retrieved
+2020-12-01 19:33:43.792 +01:00 [INF] Users list retrieved
+2020-12-01 19:36:06.093 +01:00 [INF] Users list retrieved
+2020-12-01 19:38:02.755 +01:00 [INF] Users list retrieved
+2020-12-01 19:41:17.080 +01:00 [INF] Users list retrieved
+2020-12-01 19:42:42.986 +01:00 [INF] Users list retrieved
+2020-12-01 19:44:47.510 +01:00 [INF] Users list retrieved
+2020-12-01 19:45:47.186 +01:00 [INF] Users list retrieved
+2020-12-01 19:45:59.116 +01:00 [INF] Users list retrieved
+2020-12-01 19:46:11.411 +01:00 [INF] Users list retrieved
+2020-12-01 19:46:15.349 +01:00 [INF] Users list retrieved
+2020-12-01 19:54:02.922 +01:00 [INF] Users list retrieved
+2020-12-01 19:55:40.346 +01:00 [INF] Users list retrieved
+2020-12-01 19:56:45.676 +01:00 [INF] Users list retrieved
+2020-12-02 14:52:29.520 +01:00 [INF] Roles list retrieved
+2020-12-02 14:52:47.002 +01:00 [INF] Roles list retrieved
+2020-12-02 14:52:49.965 +01:00 [INF] Users list retrieved
+2020-12-02 15:54:24.428 +01:00 [INF] Memo list retrieved
+2020-12-02 15:58:49.903 +01:00 [INF] Memo list retrieved
+2020-12-02 15:59:15.432 +01:00 [INF] New memo added - My test memo
+2020-12-02 15:59:15.469 +01:00 [INF] Memo list retrieved
+2020-12-02 15:59:27.594 +01:00 [INF] New memo added - Memo
+2020-12-02 15:59:27.615 +01:00 [INF] Memo list retrieved
+2020-12-02 15:59:55.322 +01:00 [DBG] Object reference not set to an instance of an object.
+2020-12-02 15:59:55.348 +01:00 [INF] Memo list retrieved
+2020-12-02 16:00:09.885 +01:00 [INF] New memo added - Memo
+2020-12-02 16:00:09.914 +01:00 [INF] Memo list retrieved
+2020-12-02 16:00:17.067 +01:00 [INF] New memo added - Second
+2020-12-02 16:00:17.106 +01:00 [INF] Memo list retrieved
+2020-12-02 16:00:23.604 +01:00 [INF] New memo added - Second 2
+2020-12-02 16:00:23.637 +01:00 [INF] Memo list retrieved
+2020-12-02 16:00:36.613 +01:00 [DBG] Object reference not set to an instance of an object.
+2020-12-02 16:00:36.635 +01:00 [INF] Memo list retrieved
+2020-12-02 16:00:49.757 +01:00 [INF] New memo added - Second 2
+2020-12-02 16:00:49.778 +01:00 [INF] Memo list retrieved
+2020-12-02 16:14:47.477 +01:00 [INF] Memo list retrieved
+2020-12-02 16:14:55.528 +01:00 [INF] Memo list retrieved
+2020-12-02 16:19:00.589 +01:00 [INF] Memo list retrieved
+2020-12-02 16:19:05.672 +01:00 [INF] Memo list retrieved
+2020-12-02 17:11:50.052 +01:00 [INF] Memo list retrieved
+2020-12-02 17:13:01.030 +01:00 [INF] Memo list retrieved
+2020-12-02 17:13:05.150 +01:00 [INF] Memo retrieved - Second Edited
+2020-12-02 17:13:11.790 +01:00 [INF] Memo list retrieved
+2020-12-02 17:38:15.417 +01:00 [INF] Memo list retrieved
+2020-12-02 17:46:12.537 +01:00 [INF] Memo list retrieved
+2020-12-02 17:57:26.801 +01:00 [INF] Memo list retrieved
+2020-12-02 17:59:07.354 +01:00 [INF] Memo list retrieved
+2020-12-03 21:48:04.163 +01:00 [INF] Memo list retrieved
+2020-12-03 22:49:02.693 +01:00 [INF] Memo list retrieved
+2020-12-03 22:53:00.308 +01:00 [INF] Memo list retrieved
+2020-12-03 22:59:14.945 +01:00 [INF] Memo list retrieved
+2020-12-09 12:10:02.847 +01:00 [INF] Memo list retrieved
+2020-12-09 12:10:05.761 +01:00 [ERR] GetMemo by Id - Memo not found
+2020-12-09 12:11:14.498 +01:00 [INF] Memo list retrieved
+2020-12-09 12:11:16.340 +01:00 [ERR] GetMemo by Id - Memo not found
+2020-12-09 12:12:13.448 +01:00 [INF] Memo list retrieved
+2020-12-09 12:12:15.032 +01:00 [ERR] GetMemo by Id - Memo not found
+2020-12-09 12:12:31.185 +01:00 [INF] Memo list retrieved
+2020-12-09 12:12:58.814 +01:00 [INF] Memo list retrieved
+2020-12-09 12:13:03.864 +01:00 [ERR] GetMemo by Id - Memo not found
+2020-12-09 12:16:54.634 +01:00 [INF] Memo list retrieved
+2020-12-09 12:17:01.254 +01:00 [ERR] GetMemo by Id - Memo not found
+2020-12-09 12:17:42.986 +01:00 [ERR] GetMemo by Id - Memo not found
+2020-12-09 12:20:59.040 +01:00 [INF] Memo list retrieved
+2020-12-09 12:21:04.462 +01:00 [INF] Memo retrieved - First
+2020-12-09 12:21:18.092 +01:00 [INF] Memo list retrieved
+2020-12-09 12:24:52.163 +01:00 [INF] Memo list retrieved
+2020-12-09 12:24:58.675 +01:00 [INF] Memo retrieved - First
+2020-12-09 12:25:01.142 +01:00 [INF] Memo retrieved - First
+2020-12-09 12:25:03.388 +01:00 [INF] Memo list retrieved
+2020-12-09 12:31:37.140 +01:00 [INF] Memo list retrieved
+2020-12-09 12:31:42.225 +01:00 [INF] Memo retrieved - First
+2020-12-09 12:31:54.895 +01:00 [INF] Memo list retrieved
+2020-12-09 12:31:58.562 +01:00 [INF] Memo retrieved - First
+2020-12-09 12:32:07.526 +01:00 [INF] Memo retrieved - First
+2020-12-09 12:32:09.922 +01:00 [INF] Memo list retrieved
+2020-12-09 12:32:13.588 +01:00 [INF] Memo retrieved - Memo
+2020-12-09 12:32:18.293 +01:00 [INF] Memo list retrieved
+2020-12-09 12:32:21.381 +01:00 [INF] Memo retrieved - Memo
+2020-12-09 12:57:44.395 +01:00 [INF] Memo list retrieved
+2020-12-09 12:58:03.253 +01:00 [INF] Memo retrieved - Memo
+2020-12-09 12:58:10.007 +01:00 [INF] Memo retrieved - Test tags memo
+2020-12-09 12:59:41.557 +01:00 [INF] Memo list retrieved
+2020-12-09 12:59:45.165 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:00:42.841 +01:00 [INF] Memo list retrieved
+2020-12-09 13:00:49.414 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:04:19.837 +01:00 [INF] Memo list retrieved
+2020-12-09 13:04:21.576 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:04:26.671 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:05:01.634 +01:00 [INF] Memo list retrieved
+2020-12-09 13:05:04.630 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:06:42.720 +01:00 [INF] Memo list retrieved
+2020-12-09 13:06:44.680 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:07:37.729 +01:00 [INF] Memo list retrieved
+2020-12-09 13:07:40.376 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:09:44.837 +01:00 [INF] Memo list retrieved
+2020-12-09 13:09:47.142 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:09:56.400 +01:00 [INF] Memo list retrieved
+2020-12-09 13:10:01.305 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:10:11.360 +01:00 [INF] Memo edited - First
+2020-12-09 13:10:11.371 +01:00 [INF] Memo list retrieved
+2020-12-09 13:10:13.903 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:10:16.905 +01:00 [INF] Memo retrieved - First
+2020-12-09 13:10:19.347 +01:00 [INF] Memo list retrieved
+2020-12-10 11:36:38.641 +01:00 [INF] Memo list retrieved
+2020-12-10 11:36:47.181 +01:00 [INF] Memo retrieved - First
+2020-12-10 11:36:51.079 +01:00 [INF] Memo list retrieved
+2020-12-10 11:36:53.447 +01:00 [INF] Memo retrieved - First
+2020-12-10 11:37:03.580 +01:00 [INF] Memo edited - First
+2020-12-10 11:37:03.656 +01:00 [INF] Memo list retrieved
+2020-12-10 11:37:06.513 +01:00 [INF] Memo retrieved - First
+2020-12-10 11:37:19.895 +01:00 [INF] Memo retrieved - First
+2020-12-10 11:37:26.931 +01:00 [INF] Memo retrieved - First
+2020-12-10 11:41:37.235 +01:00 [INF] Memo list retrieved
+2020-12-10 11:44:24.629 +01:00 [INF] Memo list retrieved
+2020-12-10 11:44:41.662 +01:00 [INF] Memo - Seconddeleted
+2020-12-10 11:44:41.687 +01:00 [INF] Memo list retrieved

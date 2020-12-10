@@ -1,0 +1,55 @@
+﻿@model MemoApp.Models.MemoViewModel
+
+<div>
+    <h4>Memo Details</h4>
+    <hr />
+    <dl class="row">
+
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.Note)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.Note)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.CreatedAt)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.CreatedAt)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.UpdatedAt)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.UpdatedAt)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.StatusId)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.StatusId)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class="col-md-3">
+            @Html.DisplayNameFor(model => model.Tags)
+        </dt>
+        <dd class="col-md-7">
+            @Html.DisplayFor(model => model.Tags)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
